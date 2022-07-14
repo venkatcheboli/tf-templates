@@ -7,5 +7,5 @@ variable "instance_type" {
     default= "t2.micro"
 }
 variable "subnet_id"{
-    default= "vpc-0a3573fc65b69c4fb"
+    default= "subnet-031a1dec69aad9272"
 }
